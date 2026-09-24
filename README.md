@@ -13,6 +13,7 @@ propio— así que aquí está lo que construí, cómo está hecho y dónde se p
 
 ## Viantaris — CRM multi-tenant con agente de IA
 🔗 [viantaris.com](https://viantaris.com) · en producción con clientes reales · *código privado*
+📄 **[Case study completo: arquitectura, barreras y qué garantiza](casos/viantaris.md)**
 
 Un agente responde por WhatsApp Business, califica al cliente y escala a una persona cuando
 hace falta.
@@ -46,7 +47,7 @@ gestionados
 ---
 
 ## Pipeline de prospección B2B
-*código privado (cliente)*
+*código privado (cliente)* · 📄 **[Case study completo](casos/prospeccion-b2b.md)**
 
 Busca prospectos en LinkedIn y, **cuando LinkedIn no tiene los datos, va al sitio web del
 negocio a completarlos**. Deduplicación por perfil único, ejecución programada dos veces al
